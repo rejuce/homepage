@@ -11044,3 +11044,9 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
+.portfolio-caption {
+  font-size: 1.6rem;      /* slightly smaller text */
+  color: #6c757d;           /* Bootstrap’s “muted” color */
+  /* margin-top is already handled by mt-2 utility */
+}
